@@ -7,7 +7,7 @@ Elaborei um site simples para uma clínica de psicologia chamada Mente Saudável
 
 ### 📌 Saída
 ![Home page do site da Mente Saudável, clínica de psicologia](./assets/image.png)
-[Link para a página](https://eprahoje.github.io/website-trilha-html-modulo-1/)
+[Link para a página](https://eprahoje.github.io/website-trilha-html-modulo-2/)
 
 #
 <img src = "https://github.com/eprahoje/classificador-de-nivel-de-heroi/assets/143037296/488c9d56-21ae-419d-a15b-32824a7fa2fd" width = 100px align = "center"> | Desafio proposto no curso de Primeiros passos com HTML na [DIO](https://www.dio.me)
